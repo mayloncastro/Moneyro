@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Moneyro</string>
+    <string name="data_lanc">Data Lanc.:</string>
+    <string name="valor">Valor:</string>
+    <string name="detalhe">Detalhe:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="saldo">Saldo</string>
+    <string name="ver_lan_amento">Ver Lançamentos</string>
+    <string name="lan_ar">Lançar</string>
+    <string name="meu_fluxo_de_caixa">Meu Fluxo de Caixa</string>
+
+</resources>
